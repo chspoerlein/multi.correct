@@ -1,0 +1,9 @@
+Package: multi.correct
+Title: Multilevel Segregation Index Calculation
+Version: 0.1.0.9000
+Authors@R: person("Christoph", "Spoerlein", , "christoph.spoerlein@uni-bamberg.de", role = c("aut", "cre"))
+Description: Calculates segregation index using multilevel logistic regression
+Depends: R (>= 3.1.1)
+Imports: lme4, boot
+License: GPL-3
+LazyData: true
